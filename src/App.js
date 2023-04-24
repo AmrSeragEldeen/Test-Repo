@@ -40,6 +40,7 @@ function App() {
       data.length >= 1 ? (<button onClick={deleteallitem} className='btn-color w-100 py-2 '>Delete all</button>): null
     }
     <Train/>
+    <Train/>
     
     
     </Col>
